@@ -22,7 +22,7 @@ jobs:
         run: flutter doctor
           
       - name: Clone project
-        run: git clone https://github.com/anandnet/Harmony-Music.git
+        run: git clone https://github.com/ambrossRake/Harmony-Music.git
         
       - name: Install Flutter distributor
         run: |
